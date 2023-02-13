@@ -17,7 +17,7 @@
 <a target="_blank" href="https://behance.net/sidbelbase/">
 <img src="https://img.shields.io/badge/-sidbelbase-141414?style=for-the-badge&logo=Behance&logoColor=white&link=https://behance.net/sidbelbase" alt="Behance Badge"></a>
 <br>
--->
+
 <br>
 
   <details>
@@ -56,3 +56,4 @@ const sidbelbase = {
 </a>
 
   </details>
+-->
