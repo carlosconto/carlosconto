@@ -1,9 +1,9 @@
 
-<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
+<img align="right" src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg" height="160px" width="auto">
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://sidbelbase.me">Carlos Conto.</a></h1>
 
-<h3 align="left">I seek to contribute to this world with my algorithms and abstractions.</h3>
+<h3 align="left"></h3>
 <!--
 <a target="_blank" href="https://linkedin.com/in/sidbelbase/">
 <img src="https://img.shields.io/badge/-sidbelbase-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sidbelbase/" alt="Linkedin Badge"></a>
