@@ -1,10 +1,10 @@
 
 <img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://sidbelbase.me">Siddharth Belbase.</a></h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://sidbelbase.me">Carlos Conto.</a></h1>
 
 <h3 align="left">I seek to contribute to this world with my algorithms and abstractions.</h3>
-
+<!--
 <a target="_blank" href="https://linkedin.com/in/sidbelbase/">
 <img src="https://img.shields.io/badge/-sidbelbase-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sidbelbase/" alt="Linkedin Badge"></a>
 
@@ -17,7 +17,7 @@
 <a target="_blank" href="https://behance.net/sidbelbase/">
 <img src="https://img.shields.io/badge/-sidbelbase-141414?style=for-the-badge&logo=Behance&logoColor=white&link=https://behance.net/sidbelbase" alt="Behance Badge"></a>
 <br>
-
+-->
 <br>
 
   <details>
