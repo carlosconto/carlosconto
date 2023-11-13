@@ -25,7 +25,7 @@
     <strong>MORE ABOUT ME</strong>
     </summary>
 
-```javascript
+javascript
 const sidbelbase = {
   availableForHire: true,
   education: "UnderGraduate",
@@ -44,7 +44,6 @@ const sidbelbase = {
     }
   ],
 }
-```
 
 ![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=sidbelbase&show_icons=true&icon_color=141414&bg_color=ffffff&hide_border=true&line_height=25&text_color=141414&hide_title=true&count_private=true)
 
