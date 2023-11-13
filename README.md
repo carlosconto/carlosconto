@@ -1,7 +1,9 @@
 
 <img align="right" src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg" height="160px" width="auto">
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://sidbelbase.me">Carlos Conto.</a></h1>
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="20px">
+  Hello There, I'm <a href="https://sidbelbase.me">Carlos Conto.</a></h1>
 
 <h3 align="left"></h3>
 <!--
